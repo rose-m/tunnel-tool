@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TunnelTools.Client", "TunnelTools.Client\TunnelTools.Client.csproj", "{007E19E8-264A-452B-9473-1E4A4D0EC270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007E19E8-264A-452B-9473-1E4A4D0EC270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007E19E8-264A-452B-9473-1E4A4D0EC270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007E19E8-264A-452B-9473-1E4A4D0EC270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007E19E8-264A-452B-9473-1E4A4D0EC270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
